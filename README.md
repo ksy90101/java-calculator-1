@@ -1,7 +1,3 @@
-## 깃허브
-
-**[java-calculator](https://github.com/programmers-lecture/java-calculator)**
-
 ## 필수 요구사항
 
 1. 입력을 받았을 경우 사칙연산(+, -, *, /)이 가능해야 한다.
